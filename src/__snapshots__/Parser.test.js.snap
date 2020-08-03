@@ -1,0 +1,1022 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Puzzle Parser extracts clues 2`] = `
+Object {
+  "1": "Geico mascot",
+  "10": "Big ___ (large sets to mine)",
+  "14": "Islam deity",
+  "15": "Computer whose plural sounds like a big-screen format",
+  "16": "Egyptian goddess invoked in \\"The Magic Flute\\"",
+  "17": "Concrete floors, e.g.",
+  "18": "Dorothy's basketful",
+  "19": "Darth Vader, for one",
+  "20": "Colombian currency",
+  "21": "Soreness for LeBron James?",
+  "23": "A few",
+  "25": "Foiled villain's cry",
+  "26": "Caprice for Katie Ledecky?",
+  "31": "Tinder profile part, informally",
+  "32": "Muse of love poetry",
+  "33": "Lukewarm",
+  "37": "Ages",
+  "39": "Like a brainiac",
+  "41": "Animated explorer",
+  "42": "Hollywood VIP",
+  "44": "Animal on a Buffalo nickel",
+  "46": "Kitchen spray choice",
+  "47": "Ancient letter for Perry Como?",
+  "50": "Looks that may be icy",
+  "53": "Water-resistant cover",
+  "54": "Tropical getaway for Roger Bannister?",
+  "58": "Band aids?",
+  "6": "Semis",
+  "61": "News piece about a life, briefly",
+  "62": "Inventor's inspiration",
+  "63": "Gobbled down",
+  "64": "Unlike unicorns",
+  "65": "Skedaddled",
+  "66": "The Wizard of ___ Park (Thomas Edison)",
+  "67": "Custom birdhouse website",
+  "68": "Desires",
+  "69": "Full-grown",
+}
+`;
+
+exports[`Puzzle Parser extracts clues 3`] = `
+Object {
+  "1": "Astonished reaction",
+  "10": "Took weapons from",
+  "11": "Puma rival",
+  "12": "Church donation",
+  "13": "Phoenix's remains",
+  "2": "\\"Legally Blonde\\" protagonist Woods",
+  "21": "Creepy looks",
+  "22": "Management figure",
+  "24": "Sra., across the Pyrenees",
+  "26": "What many freelancers write on?",
+  "27": "It may be barbed",
+  "28": "\\"___: Last Blood\\" (2019 action film)",
+  "29": "Besmirch",
+  "3": "Genre for Bach, Beethoven and Brahms",
+  "30": "Like a B+, vis-a-vis an A-",
+  "34": "One may appear when you mouse over something",
+  "35": "Persia, today",
+  "36": "Title for Joan Sutherland",
+  "38": "In confidence",
+  "4": "Big explosion sound",
+  "40": "Linzer ___ (Austrian pastry)",
+  "43": "Uncle Remus title",
+  "45": "Cybersecurity grp.",
+  "48": "Bone up?",
+  "49": "Like \\"Moonlight\\" and \\"Parasite\\"",
+  "5": "Honey Graham ___",
+  "50": "Dessert with a gooey center",
+  "51": "Himalayan land",
+  "52": "Anna Gram, say, for a wordsmith",
+  "55": "Twiddling one's thumbs",
+  "56": "No longer hidden",
+  "57": "Fellas",
+  "59": "Influence",
+  "6": "Meter maid in a Beatles song",
+  "60": "Leopard marking",
+  "63": "Health advocacy org.",
+  "7": "\\"Don't worry about me\\"",
+  "8": "End of a political scandal name",
+  "9": "Over-sear?",
+}
+`;
+
+exports[`Puzzle Parser parses puzzles 1`] = `
+Object {
+  "author": Array [
+    "Heard It Before?",
+    "Stu Ockman",
+    "© 2020, Andrews McMeel Syndication. Editor: David Steinberg.",
+  ],
+  "clues": Object {
+    "across": Object {
+      "1": "Geico mascot",
+      "10": "Big ___ (large sets to mine)",
+      "14": "Islam deity",
+      "15": "Computer whose plural sounds like a big-screen format",
+      "16": "Egyptian goddess invoked in \\"The Magic Flute\\"",
+      "17": "Concrete floors, e.g.",
+      "18": "Dorothy's basketful",
+      "19": "Darth Vader, for one",
+      "20": "Colombian currency",
+      "21": "Soreness for LeBron James?",
+      "23": "A few",
+      "25": "Foiled villain's cry",
+      "26": "Caprice for Katie Ledecky?",
+      "31": "Tinder profile part, informally",
+      "32": "Muse of love poetry",
+      "33": "Lukewarm",
+      "37": "Ages",
+      "39": "Like a brainiac",
+      "41": "Animated explorer",
+      "42": "Hollywood VIP",
+      "44": "Animal on a Buffalo nickel",
+      "46": "Kitchen spray choice",
+      "47": "Ancient letter for Perry Como?",
+      "50": "Looks that may be icy",
+      "53": "Water-resistant cover",
+      "54": "Tropical getaway for Roger Bannister?",
+      "58": "Band aids?",
+      "6": "Semis",
+      "61": "News piece about a life, briefly",
+      "62": "Inventor's inspiration",
+      "63": "Gobbled down",
+      "64": "Unlike unicorns",
+      "65": "Skedaddled",
+      "66": "The Wizard of ___ Park (Thomas Edison)",
+      "67": "Custom birdhouse website",
+      "68": "Desires",
+      "69": "Full-grown",
+    },
+    "down": Object {
+      "1": "Astonished reaction",
+      "10": "Took weapons from",
+      "11": "Puma rival",
+      "12": "Church donation",
+      "13": "Phoenix's remains",
+      "2": "\\"Legally Blonde\\" protagonist Woods",
+      "21": "Creepy looks",
+      "22": "Management figure",
+      "24": "Sra., across the Pyrenees",
+      "26": "What many freelancers write on?",
+      "27": "It may be barbed",
+      "28": "\\"___: Last Blood\\" (2019 action film)",
+      "29": "Besmirch",
+      "3": "Genre for Bach, Beethoven and Brahms",
+      "30": "Like a B+, vis-a-vis an A-",
+      "34": "One may appear when you mouse over something",
+      "35": "Persia, today",
+      "36": "Title for Joan Sutherland",
+      "38": "In confidence",
+      "4": "Big explosion sound",
+      "40": "Linzer ___ (Austrian pastry)",
+      "43": "Uncle Remus title",
+      "45": "Cybersecurity grp.",
+      "48": "Bone up?",
+      "49": "Like \\"Moonlight\\" and \\"Parasite\\"",
+      "5": "Honey Graham ___",
+      "50": "Dessert with a gooey center",
+      "51": "Himalayan land",
+      "52": "Anna Gram, say, for a wordsmith",
+      "55": "Twiddling one's thumbs",
+      "56": "No longer hidden",
+      "57": "Fellas",
+      "59": "Influence",
+      "6": "Meter maid in a Beatles song",
+      "60": "Leopard marking",
+      "63": "Health advocacy org.",
+      "7": "\\"Don't worry about me\\"",
+      "8": "End of a political scandal name",
+      "9": "Over-sear?",
+    },
+  },
+  "height": 15,
+  "layout": Array [
+    Array [
+      Object {
+        "across": 1,
+        "down": 1,
+      },
+      Object {
+        "acrossGroup": 1,
+        "down": 2,
+      },
+      Object {
+        "acrossGroup": 1,
+        "down": 3,
+      },
+      Object {
+        "acrossGroup": 1,
+        "down": 4,
+      },
+      Object {
+        "acrossGroup": 1,
+        "down": 5,
+      },
+      null,
+      Object {
+        "across": 6,
+        "down": 6,
+      },
+      Object {
+        "acrossGroup": 6,
+        "down": 7,
+      },
+      Object {
+        "acrossGroup": 6,
+        "down": 8,
+      },
+      Object {
+        "acrossGroup": 6,
+        "down": 9,
+      },
+      null,
+      Object {
+        "across": 10,
+        "down": 10,
+      },
+      Object {
+        "acrossGroup": 10,
+        "down": 11,
+      },
+      Object {
+        "acrossGroup": 10,
+        "down": 12,
+      },
+      Object {
+        "acrossGroup": 10,
+        "down": 13,
+      },
+    ],
+    Array [
+      Object {
+        "across": 14,
+        "downGroup": 1,
+      },
+      Object {
+        "acrossGroup": 14,
+        "downGroup": 2,
+      },
+      Object {
+        "acrossGroup": 14,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 14,
+        "downGroup": 4,
+      },
+      Object {
+        "acrossGroup": 14,
+        "downGroup": 5,
+      },
+      null,
+      Object {
+        "across": 15,
+        "downGroup": 6,
+      },
+      Object {
+        "acrossGroup": 15,
+        "downGroup": 7,
+      },
+      Object {
+        "acrossGroup": 15,
+        "downGroup": 8,
+      },
+      Object {
+        "acrossGroup": 15,
+        "downGroup": 9,
+      },
+      null,
+      Object {
+        "across": 16,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 16,
+        "downGroup": 11,
+      },
+      Object {
+        "acrossGroup": 16,
+        "downGroup": 12,
+      },
+      Object {
+        "acrossGroup": 16,
+        "downGroup": 13,
+      },
+    ],
+    Array [
+      Object {
+        "across": 17,
+        "downGroup": 1,
+      },
+      Object {
+        "acrossGroup": 17,
+        "downGroup": 2,
+      },
+      Object {
+        "acrossGroup": 17,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 17,
+        "downGroup": 4,
+      },
+      Object {
+        "acrossGroup": 17,
+        "downGroup": 5,
+      },
+      null,
+      Object {
+        "across": 18,
+        "downGroup": 6,
+      },
+      Object {
+        "acrossGroup": 18,
+        "downGroup": 7,
+      },
+      Object {
+        "acrossGroup": 18,
+        "downGroup": 8,
+      },
+      Object {
+        "acrossGroup": 18,
+        "downGroup": 9,
+      },
+      null,
+      Object {
+        "across": 19,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 19,
+        "downGroup": 11,
+      },
+      Object {
+        "acrossGroup": 19,
+        "downGroup": 12,
+      },
+      Object {
+        "acrossGroup": 19,
+        "downGroup": 13,
+      },
+    ],
+    Array [
+      Object {
+        "across": 20,
+        "downGroup": 1,
+      },
+      Object {
+        "acrossGroup": 20,
+        "downGroup": 2,
+      },
+      Object {
+        "acrossGroup": 20,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 20,
+        "downGroup": 4,
+      },
+      null,
+      Object {
+        "across": 21,
+        "down": 21,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 6,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 7,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 8,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 9,
+      },
+      Object {
+        "acrossGroup": 21,
+        "down": 22,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 11,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 12,
+      },
+      Object {
+        "acrossGroup": 21,
+        "downGroup": 13,
+      },
+    ],
+    Array [
+      null,
+      null,
+      Object {
+        "across": 23,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 23,
+        "downGroup": 4,
+      },
+      Object {
+        "acrossGroup": 23,
+        "down": 24,
+      },
+      Object {
+        "acrossGroup": 23,
+        "downGroup": 21,
+      },
+      null,
+      null,
+      null,
+      Object {
+        "across": 25,
+        "downGroup": 9,
+      },
+      Object {
+        "acrossGroup": 25,
+        "downGroup": 22,
+      },
+      Object {
+        "acrossGroup": 25,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 25,
+        "downGroup": 11,
+      },
+      Object {
+        "acrossGroup": 25,
+        "downGroup": 12,
+      },
+      Object {
+        "acrossGroup": 25,
+        "downGroup": 13,
+      },
+    ],
+    Array [
+      Object {
+        "across": 26,
+        "down": 26,
+      },
+      Object {
+        "acrossGroup": 26,
+        "down": 27,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 4,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 24,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 21,
+      },
+      Object {
+        "acrossGroup": 26,
+        "down": 28,
+      },
+      Object {
+        "acrossGroup": 26,
+        "down": 29,
+      },
+      Object {
+        "acrossGroup": 26,
+        "down": 30,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 9,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 22,
+      },
+      Object {
+        "acrossGroup": 26,
+        "downGroup": 10,
+      },
+      null,
+      null,
+      null,
+    ],
+    Array [
+      Object {
+        "across": 31,
+        "downGroup": 26,
+      },
+      Object {
+        "acrossGroup": 31,
+        "downGroup": 27,
+      },
+      Object {
+        "acrossGroup": 31,
+        "downGroup": 3,
+      },
+      null,
+      Object {
+        "across": 32,
+        "downGroup": 24,
+      },
+      Object {
+        "acrossGroup": 32,
+        "downGroup": 21,
+      },
+      Object {
+        "acrossGroup": 32,
+        "downGroup": 28,
+      },
+      Object {
+        "acrossGroup": 32,
+        "downGroup": 29,
+      },
+      Object {
+        "acrossGroup": 32,
+        "downGroup": 30,
+      },
+      null,
+      Object {
+        "across": 33,
+        "downGroup": 22,
+      },
+      Object {
+        "acrossGroup": 33,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 33,
+        "down": 34,
+      },
+      Object {
+        "acrossGroup": 33,
+        "down": 35,
+      },
+      Object {
+        "acrossGroup": 33,
+        "down": 36,
+      },
+    ],
+    Array [
+      Object {
+        "across": 37,
+        "downGroup": 26,
+      },
+      Object {
+        "acrossGroup": 37,
+        "downGroup": 27,
+      },
+      Object {
+        "acrossGroup": 37,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 37,
+        "down": 38,
+      },
+      null,
+      Object {
+        "across": 39,
+        "downGroup": 21,
+      },
+      Object {
+        "acrossGroup": 39,
+        "downGroup": 28,
+      },
+      Object {
+        "acrossGroup": 39,
+        "downGroup": 29,
+      },
+      Object {
+        "acrossGroup": 39,
+        "downGroup": 30,
+      },
+      Object {
+        "acrossGroup": 39,
+        "down": 40,
+      },
+      null,
+      Object {
+        "across": 41,
+        "downGroup": 10,
+      },
+      Object {
+        "acrossGroup": 41,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 41,
+        "downGroup": 35,
+      },
+      Object {
+        "acrossGroup": 41,
+        "downGroup": 36,
+      },
+    ],
+    Array [
+      Object {
+        "across": 42,
+        "downGroup": 26,
+      },
+      Object {
+        "acrossGroup": 42,
+        "downGroup": 27,
+      },
+      Object {
+        "acrossGroup": 42,
+        "downGroup": 3,
+      },
+      Object {
+        "acrossGroup": 42,
+        "downGroup": 38,
+      },
+      Object {
+        "acrossGroup": 42,
+        "down": 43,
+      },
+      null,
+      Object {
+        "across": 44,
+        "downGroup": 28,
+      },
+      Object {
+        "acrossGroup": 44,
+        "downGroup": 29,
+      },
+      Object {
+        "acrossGroup": 44,
+        "downGroup": 30,
+      },
+      Object {
+        "acrossGroup": 44,
+        "downGroup": 40,
+      },
+      Object {
+        "acrossGroup": 44,
+        "down": 45,
+      },
+      null,
+      Object {
+        "across": 46,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 46,
+        "downGroup": 35,
+      },
+      Object {
+        "acrossGroup": 46,
+        "downGroup": 36,
+      },
+    ],
+    Array [
+      null,
+      null,
+      null,
+      Object {
+        "across": 47,
+        "downGroup": 38,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 43,
+      },
+      Object {
+        "acrossGroup": 47,
+        "down": 48,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 28,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 29,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 30,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 40,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 45,
+      },
+      Object {
+        "acrossGroup": 47,
+        "down": 49,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 35,
+      },
+      Object {
+        "acrossGroup": 47,
+        "downGroup": 36,
+      },
+    ],
+    Array [
+      Object {
+        "across": 50,
+        "down": 50,
+      },
+      Object {
+        "acrossGroup": 50,
+        "down": 51,
+      },
+      Object {
+        "acrossGroup": 50,
+        "down": 52,
+      },
+      Object {
+        "acrossGroup": 50,
+        "downGroup": 38,
+      },
+      Object {
+        "acrossGroup": 50,
+        "downGroup": 43,
+      },
+      Object {
+        "acrossGroup": 50,
+        "downGroup": 48,
+      },
+      null,
+      null,
+      null,
+      Object {
+        "across": 53,
+        "downGroup": 40,
+      },
+      Object {
+        "acrossGroup": 53,
+        "downGroup": 45,
+      },
+      Object {
+        "acrossGroup": 53,
+        "downGroup": 49,
+      },
+      Object {
+        "acrossGroup": 53,
+        "downGroup": 34,
+      },
+      null,
+      null,
+    ],
+    Array [
+      Object {
+        "across": 54,
+        "downGroup": 50,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 51,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 52,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 38,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 43,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 48,
+      },
+      Object {
+        "acrossGroup": 54,
+        "down": 55,
+      },
+      Object {
+        "acrossGroup": 54,
+        "down": 56,
+      },
+      Object {
+        "acrossGroup": 54,
+        "down": 57,
+      },
+      Object {
+        "acrossGroup": 54,
+        "downGroup": 40,
+      },
+      null,
+      Object {
+        "across": 58,
+        "downGroup": 49,
+      },
+      Object {
+        "acrossGroup": 58,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 58,
+        "down": 59,
+      },
+      Object {
+        "acrossGroup": 58,
+        "down": 60,
+      },
+    ],
+    Array [
+      Object {
+        "across": 61,
+        "downGroup": 50,
+      },
+      Object {
+        "acrossGroup": 61,
+        "downGroup": 51,
+      },
+      Object {
+        "acrossGroup": 61,
+        "downGroup": 52,
+      },
+      Object {
+        "acrossGroup": 61,
+        "downGroup": 38,
+      },
+      null,
+      Object {
+        "across": 62,
+        "downGroup": 48,
+      },
+      Object {
+        "acrossGroup": 62,
+        "downGroup": 55,
+      },
+      Object {
+        "acrossGroup": 62,
+        "downGroup": 56,
+      },
+      Object {
+        "acrossGroup": 62,
+        "downGroup": 57,
+      },
+      null,
+      Object {
+        "across": 63,
+        "down": 63,
+      },
+      Object {
+        "acrossGroup": 63,
+        "downGroup": 49,
+      },
+      Object {
+        "acrossGroup": 63,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 63,
+        "downGroup": 59,
+      },
+      Object {
+        "acrossGroup": 63,
+        "downGroup": 60,
+      },
+    ],
+    Array [
+      Object {
+        "across": 64,
+        "downGroup": 50,
+      },
+      Object {
+        "acrossGroup": 64,
+        "downGroup": 51,
+      },
+      Object {
+        "acrossGroup": 64,
+        "downGroup": 52,
+      },
+      Object {
+        "acrossGroup": 64,
+        "downGroup": 38,
+      },
+      null,
+      Object {
+        "across": 65,
+        "downGroup": 48,
+      },
+      Object {
+        "acrossGroup": 65,
+        "downGroup": 55,
+      },
+      Object {
+        "acrossGroup": 65,
+        "downGroup": 56,
+      },
+      Object {
+        "acrossGroup": 65,
+        "downGroup": 57,
+      },
+      null,
+      Object {
+        "across": 66,
+        "downGroup": 63,
+      },
+      Object {
+        "acrossGroup": 66,
+        "downGroup": 49,
+      },
+      Object {
+        "acrossGroup": 66,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 66,
+        "downGroup": 59,
+      },
+      Object {
+        "acrossGroup": 66,
+        "downGroup": 60,
+      },
+    ],
+    Array [
+      Object {
+        "across": 67,
+        "downGroup": 50,
+      },
+      Object {
+        "acrossGroup": 67,
+        "downGroup": 51,
+      },
+      Object {
+        "acrossGroup": 67,
+        "downGroup": 52,
+      },
+      Object {
+        "acrossGroup": 67,
+        "downGroup": 38,
+      },
+      null,
+      Object {
+        "across": 68,
+        "downGroup": 48,
+      },
+      Object {
+        "acrossGroup": 68,
+        "downGroup": 55,
+      },
+      Object {
+        "acrossGroup": 68,
+        "downGroup": 56,
+      },
+      Object {
+        "acrossGroup": 68,
+        "downGroup": 57,
+      },
+      null,
+      Object {
+        "across": 69,
+        "downGroup": 63,
+      },
+      Object {
+        "acrossGroup": 69,
+        "downGroup": 49,
+      },
+      Object {
+        "acrossGroup": 69,
+        "downGroup": 34,
+      },
+      Object {
+        "acrossGroup": 69,
+        "downGroup": 59,
+      },
+      Object {
+        "acrossGroup": 69,
+        "downGroup": 60,
+      },
+    ],
+  ],
+  "solution": Array [
+    "GECKO.RIGS.DATA",
+    "ALLAH.IMAC.ISIS",
+    "SLABS.TOTO.SITH",
+    "PESO.LAKERSACHE",
+    "..SOME...CURSES",
+    "SWIMMERSWHIM...",
+    "PIC.ERATO.TEPID",
+    "ERAS.SMART.DORA",
+    "CELEB.BISON.PAM",
+    "...CROONERSRUNE",
+    "STARES...TARP..",
+    "MILERSISLE.AMPS",
+    "OBIT.IDEA.ATEUP",
+    "REAL.FLED.MENLO",
+    "ETSY.YENS.ADULT",
+  ],
+  "width": 15,
+}
+`;
